@@ -14,6 +14,7 @@ int main()
             break;
         }
         else{
+            printf("Not Leap Year");
          break
          }
     }
@@ -22,6 +23,7 @@ int main()
         break;
     }
    else{
+       printf("Not Leap Year");
    break;
   }
     }
